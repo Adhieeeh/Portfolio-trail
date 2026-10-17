@@ -14,7 +14,7 @@ Welcome to the repository for my personal portfolio! This website showcases my p
 
 ---
 
-## 🛠️ Built With
+##  Built With
 *(Update this list with the technologies you actually used)*
 - **HTML5** / **CSS3** / **JavaScript** *(or React, Vite, Tailwind, etc.)*
 - **Git & GitHub** (Version Control & Hosting via GitHub Pages)
