@@ -1,8 +1,8 @@
-# 🚀 Personal Portfolio Website
+#  Personal Portfolio Website
 
 Welcome to the repository for my personal portfolio! This website showcases my projects, skills, and background as a developer.
 
-🌐 **Live Demo:** [https://adhieeeh.github.io/Portfolio-trail/](https://adhieeeh.github.io/Portfolio-trail/)
+**Live Demo:** [https://adhieeeh.github.io/Portfolio-trail/](https://adhieeeh.github.io/Portfolio-trail/)
 
 ---
 
