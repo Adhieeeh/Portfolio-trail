@@ -21,7 +21,7 @@ Welcome to the repository for my personal portfolio! This website showcases my p
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 Portfolio-trail/
 │
