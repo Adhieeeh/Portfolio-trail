@@ -1,0 +1,1 @@
+Place your own portrait in this folder and name it profile.jpg. The site shows a placeholder until that file exists.
