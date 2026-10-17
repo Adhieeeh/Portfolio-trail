@@ -5,6 +5,9 @@ Welcome to the repository for my personal portfolio! This website showcases my p
 **Live Demo:** [https://adhieeeh.github.io/Portfolio-trail/](https://adhieeeh.github.io/Portfolio-trail/)
 
 ---
+## Preview 
+
+![](adi.png)
 
 ## Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
