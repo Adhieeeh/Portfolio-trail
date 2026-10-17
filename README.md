@@ -6,7 +6,7 @@ Welcome to the repository for my personal portfolio! This website showcases my p
 
 ---
 
-## ✨ Features
+## Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
 - **Projects Section:** Highlights my best work with links to live demos and source code.
 - **About Me:** A brief overview of my background, experience, and passions.
